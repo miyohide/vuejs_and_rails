@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="429e206f-b404-4267-8240-b028b67db18b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/javascript/packs/components/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/app/javascript/packs/components/index.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -66,18 +67,18 @@
           <entry key="rb" value="1008" />
           <entry key="scss" value="231" />
           <entry key="server" value="72" />
-          <entry key="txt" value="535" />
-          <entry key="vue" value="452" />
+          <entry key="txt" value="590" />
+          <entry key="vue" value="1317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="574" />
-          <entry key="PLAIN_TEXT" value="668" />
+          <entry key="PLAIN_TEXT" value="723" />
           <entry key="RHTML" value="110" />
           <entry key="Ruby" value="1280" />
           <entry key="SCSS" value="231" />
-          <entry key="Vue.js" value="452" />
+          <entry key="Vue.js" value="1317" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -117,20 +118,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="122">
+              <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -218,7 +219,6 @@
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-        <option value="$PROJECT_DIR$/app/javascript/packs/components/index.vue" />
         <option value="$PROJECT_DIR$/app/javascript/packs/components/about.vue" />
         <option value="$PROJECT_DIR$/app/javascript/packs/components/contact.vue" />
         <option value="$PROJECT_DIR$/app/javascript/packs/router/router.js" />
@@ -226,6 +226,7 @@
         <option value="$PROJECT_DIR$/app/views/home/index.html.erb" />
         <option value="$PROJECT_DIR$/app/javascript/packs/todo.js" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/javascript/packs/components/index.vue" />
       </list>
     </option>
   </component>
@@ -588,7 +589,7 @@
       <updated>1537611166747</updated>
       <workItem from="1537611168085" duration="3084000" />
       <workItem from="1537627047971" duration="37000" />
-      <workItem from="1537664878237" duration="4136000" />
+      <workItem from="1537664878237" duration="6776000" />
     </task>
     <task id="LOCAL-00001" summary="create root page.">
       <created>1537611433939</created>
@@ -751,7 +752,28 @@
       <option name="project" value="LOCAL" />
       <updated>1537693503515</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add contact route">
+      <created>1537693709956</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1537693709956</updated>
+    </task>
+    <task id="LOCAL-00025" summary="yarn add axios">
+      <created>1537693761301</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1537693761301</updated>
+    </task>
+    <task id="LOCAL-00026" summary="create completed image.">
+      <created>1537696022159</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1537696022159</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -760,13 +782,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10823000" />
+    <option name="totallyTimeSpent" value="13463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1597" y="58" width="1382" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24402985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24402985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
@@ -783,7 +805,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3293011" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3293011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -826,7 +848,10 @@
     <MESSAGE value="add contact page." />
     <MESSAGE value="add router" />
     <MESSAGE value="add rails route." />
-    <option name="LAST_COMMIT_MESSAGE" value="add rails route." />
+    <MESSAGE value="add contact route" />
+    <MESSAGE value="yarn add axios" />
+    <MESSAGE value="create completed image." />
+    <option name="LAST_COMMIT_MESSAGE" value="create completed image." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
@@ -917,13 +942,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/about.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -974,8 +992,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
         </state>
       </provider>
     </entry>
