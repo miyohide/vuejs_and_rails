@@ -15,16 +15,21 @@
         <div>
             <ul class="collection">
                 <li id="row_task_1" class="collection-item">
-                    <input type="checkbox" id="task_1" />
-                    <label for="task_1">Sample Task</label>
+                    <label for="task_1"><input type="checkbox" id="task_1" />
+                        <span>Sample Task</span>
+                    </label>
                 </li>
                 <li id="row_task_2" class="collection-item">
-                    <input type="checkbox" id="task_2" />
-                    <label for="task_2">Sample Task</label>
+                    <label for="task_2">
+                        <input type="checkbox" id="task_2" />
+                        <span>Sample Task</span>
+                    </label>
                 </li>
                 <li id="row_task_3" class="collection-item">
-                    <input type="checkbox" id="task_3" />
-                    <label for="task_3">Sample Task</label>
+                    <label for="task_3">
+                        <input type="checkbox" id="task_3" />
+                        <span>Sample Task</span>
+                    </label>
                 </li>
             </ul>
         </div>
@@ -34,12 +39,17 @@
         <div id="finished-tasks" class="display_none">
             <ul class="collection">
                 <li id="row_task_4" class="collection-item">
-                    <input type="checkbox" id="task_4" checked="checked">
-                    <label v-bind:for="task_4" class="line-through">Done Task</label>
+
+                    <label v-bind:for="task_4" class="line-through">
+                        <input type="checkbox" id="task_4" checked="checked">
+                        <span>Done Task</span>
+                    </label>
                 </li>
                 <li id="row_task_5" class="collection-item">
-                    <input type="checkbox" id="task_5" checked="checked">
-                    <label v-bind:for="task_5" class="line-through">Done Task</label>
+                    <label v-bind:for="task_5" class="line-through">
+                        <input type="checkbox" id="task_5" checked="checked">
+                        <span>Done Task</span>
+                    </label>
                 </li>
             </ul>
         </div>
