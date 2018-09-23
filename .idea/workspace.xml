@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="429e206f-b404-4267-8240-b028b67db18b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/javascript/packs/components/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript/packs/components/about.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -42,7 +43,7 @@
           <entry key="rb" value="7" />
           <entry key="scss" value="1" />
           <entry key="server" value="1" />
-          <entry key="vue" value="1" />
+          <entry key="vue" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -53,7 +54,7 @@
           <entry key="RHTML" value="3" />
           <entry key="Ruby" value="10" />
           <entry key="SCSS" value="1" />
-          <entry key="Vue.js" value="1" />
+          <entry key="Vue.js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,18 +67,18 @@
           <entry key="rb" value="943" />
           <entry key="scss" value="231" />
           <entry key="server" value="72" />
-          <entry key="txt" value="444" />
-          <entry key="vue" value="321" />
+          <entry key="txt" value="469" />
+          <entry key="vue" value="367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="191" />
-          <entry key="PLAIN_TEXT" value="577" />
+          <entry key="PLAIN_TEXT" value="602" />
           <entry key="RHTML" value="80" />
           <entry key="Ruby" value="1215" />
           <entry key="SCSS" value="231" />
-          <entry key="Vue.js" value="321" />
+          <entry key="Vue.js" value="367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -87,15 +88,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
@@ -144,8 +136,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/about.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
@@ -220,6 +221,7 @@
         <option value="$PROJECT_DIR$/app/javascript/packs/todo.js" />
         <option value="$PROJECT_DIR$/app/javascript/packs/components/header.vue" />
         <option value="$PROJECT_DIR$/app/javascript/packs/components/index.vue" />
+        <option value="$PROJECT_DIR$/app/javascript/packs/components/about.vue" />
       </list>
     </option>
   </component>
@@ -569,7 +571,7 @@
       <updated>1537611166747</updated>
       <workItem from="1537611168085" duration="3084000" />
       <workItem from="1537627047971" duration="37000" />
-      <workItem from="1537664878237" duration="1449000" />
+      <workItem from="1537664878237" duration="1548000" />
     </task>
     <task id="LOCAL-00001" summary="create root page.">
       <created>1537611433939</created>
@@ -690,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1537665767926</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add index vue component">
+      <created>1537690710281</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1537690710281</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -699,7 +708,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8136000" />
+    <option name="totallyTimeSpent" value="8235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1597" y="58" width="1382" height="837" extended-state="0" />
@@ -760,7 +769,8 @@
     <MESSAGE value="add materialize setting" />
     <MESSAGE value="Fix import path." />
     <MESSAGE value="create header" />
-    <option name="LAST_COMMIT_MESSAGE" value="create header" />
+    <MESSAGE value="Add index vue component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add index vue component" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
@@ -883,6 +893,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/about.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
