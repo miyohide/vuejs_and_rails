@@ -1,4 +1,9 @@
 class Api::TasksController < ApplicationController
+  # Rails 5.2からprotect_from_forgery with: :exceptionは
+  # デフォルト化されたので、それを回避するために下記の記述をしている
+  # 本来はCSRF対策をきちんとする必要あり。
+  skip_before_action :verify_authenticity_token, raise: false
+
   def index
     @tasks = Task.order("updated_at DESC")
   end
