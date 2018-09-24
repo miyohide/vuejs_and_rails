@@ -64,3 +64,15 @@
         }
     }
 </script>
+
+<style scoped>
+    [v-cloak] {
+        display: none;
+    }
+    .display_none {
+        display: none;
+    }
+    .line-through {
+        text-decoration: line-through;
+    }
+</style>
