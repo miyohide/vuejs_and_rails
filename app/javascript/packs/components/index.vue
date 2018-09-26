@@ -54,7 +54,7 @@
         methods: {
             fetchTasks: function () {
                 axios.get('/api/tasks').then((response) => {
-                    for (var i = 0; i < response.data.tasks.length; i++) {
+                    for (let i = 0; i < response.data.tasks.length; i++) {
                         this.tasks.push(response.data.tasks[i]);
                     }
                 }, (error) => {
@@ -81,15 +81,15 @@
                 });
             },
             moveFinishedTask: function (task_id) {
-                var el = document.querySelector('#row_task_' + task_id);
+                let el = document.querySelector('#row_task_' + task_id);
                 // DOMをクローンしておく
-                var el_clone = el.cloneNode(true);
+                let el_clone = el.cloneNode(true);
                 // 未完了の方を先に非表示にする
                 el.classList.add('display_none');
                 el_clone.getElementsByTagName('input')[0].checked = 'checked';
                 el_clone.getElementsByTagName('label')[0].classList.add('line-through');
                 el_clone.getElementsByTagName('label')[0].classList.remove('word-color-black');
-                var li = document.querySelector('#finished-tasks > ul > li:first-child');
+                let li = document.querySelector('#finished-tasks > ul > li:first-child');
                 document.querySelector('#finished-tasks > ul').insertBefore(el_clone, li);
             }
         }
