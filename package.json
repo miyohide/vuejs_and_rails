@@ -15,5 +15,10 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "jest": {
+    "roots": [
+      "spec/javascript"
+    ]
   }
 }
