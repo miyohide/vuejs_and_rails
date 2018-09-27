@@ -28,7 +28,7 @@
     <orderEntry type="module-library">
       <library name="actioncable (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/actioncable-5.2.1/lib" />
@@ -41,7 +41,7 @@
     <orderEntry type="module-library">
       <library name="actionmailer (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/actionmailer-5.2.1/lib" />
@@ -54,7 +54,7 @@
     <orderEntry type="module-library">
       <library name="actionpack (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/actionpack-5.2.1/lib" />
@@ -67,7 +67,7 @@
     <orderEntry type="module-library">
       <library name="actionview (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/actionview-5.2.1/lib" />
@@ -80,7 +80,7 @@
     <orderEntry type="module-library">
       <library name="activejob (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/activejob-5.2.1/lib" />
@@ -93,7 +93,7 @@
     <orderEntry type="module-library">
       <library name="activemodel (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/activemodel-5.2.1/lib" />
@@ -106,7 +106,7 @@
     <orderEntry type="module-library">
       <library name="activerecord (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/activerecord-5.2.1/lib" />
@@ -124,7 +124,7 @@
     <orderEntry type="module-library">
       <library name="activestorage (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/activestorage-5.2.1/db" />
@@ -147,7 +147,7 @@
     <orderEntry type="module-library">
       <library name="activesupport (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/activesupport-5.2.1/lib" />
@@ -160,7 +160,7 @@
     <orderEntry type="module-library">
       <library name="arel (vbundled(9.0.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/arel-9.0.0/lib" />
@@ -173,7 +173,7 @@
     <orderEntry type="module-library">
       <library name="autoprefixer-rails (vbundled(9.1.4)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.1.4/lib" />
@@ -193,7 +193,7 @@
     <orderEntry type="module-library">
       <library name="bindex (vbundled(0.5.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext" />
@@ -214,7 +214,7 @@
     <orderEntry type="module-library">
       <library name="bootsnap (vbundled(1.3.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.3.2/bin" />
@@ -235,7 +235,7 @@
     <orderEntry type="module-library">
       <library name="builder (vbundled(3.2.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/builder-3.2.3/doc" />
@@ -259,7 +259,7 @@
     <orderEntry type="module-library">
       <library name="byebug (vbundled(10.0.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/exe" />
@@ -280,7 +280,7 @@
     <orderEntry type="module-library">
       <library name="concurrent-ruby (vbundled(1.0.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -293,7 +293,7 @@
     <orderEntry type="module-library">
       <library name="crass (vbundled(1.0.4)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/crass-1.0.4/lib" />
@@ -311,7 +311,7 @@
     <orderEntry type="module-library">
       <library name="dotenv (vbundled(0.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/dotenv-0.7.0/lib" />
@@ -329,7 +329,7 @@
     <orderEntry type="module-library">
       <library name="erubi (vbundled(1.7.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/erubi-1.7.1/lib" />
@@ -347,7 +347,7 @@
     <orderEntry type="module-library">
       <library name="execjs (vbundled(2.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/execjs-2.7.0/lib" />
@@ -360,7 +360,7 @@
     <orderEntry type="module-library">
       <library name="ffi (vbundled(1.9.25)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ffi-1.9.25/ext" />
@@ -381,7 +381,7 @@
     <orderEntry type="module-library">
       <library name="foreman (vbundled(0.64.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/foreman-0.64.0/bin" />
@@ -408,7 +408,7 @@
     <orderEntry type="module-library">
       <library name="globalid (vbundled(0.4.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/globalid-0.4.1/lib" />
@@ -421,7 +421,7 @@
     <orderEntry type="module-library">
       <library name="i18n (vbundled(1.1.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/i18n-1.1.0/lib" />
@@ -442,7 +442,7 @@
     <orderEntry type="module-library">
       <library name="jbuilder (vbundled(2.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jbuilder-2.7.0/lib" />
@@ -463,7 +463,7 @@
     <orderEntry type="module-library">
       <library name="jquery-rails (vbundled(4.3.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/jquery-rails-4.3.3/lib" />
@@ -483,7 +483,7 @@
     <orderEntry type="module-library">
       <library name="listen (vbundled(3.1.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/listen-3.1.5/bin" />
@@ -501,7 +501,7 @@
     <orderEntry type="module-library">
       <library name="loofah (vbundled(2.2.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/loofah-2.2.2/lib" />
@@ -522,7 +522,7 @@
     <orderEntry type="module-library">
       <library name="mail (vbundled(2.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/mail-2.7.0/lib" />
@@ -535,7 +535,7 @@
     <orderEntry type="module-library">
       <library name="marcel (vbundled(0.3.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/marcel-0.3.3/lib" />
@@ -548,7 +548,7 @@
     <orderEntry type="module-library">
       <library name="material_icons (vbundled(2.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/material_icons-2.2.1/app" />
@@ -563,7 +563,7 @@
     <orderEntry type="module-library">
       <library name="materialize-sass (vbundled(1.0.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/materialize-sass-1.0.0/lib" />
@@ -581,7 +581,7 @@
     <orderEntry type="module-library">
       <library name="method_source (vbundled(0.9.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/method_source-0.9.0/lib" />
@@ -599,7 +599,7 @@
     <orderEntry type="module-library">
       <library name="mimemagic (vbundled(0.3.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/mimemagic-0.3.2/lib" />
@@ -620,7 +620,7 @@
     <orderEntry type="module-library">
       <library name="mini_mime (vbundled(1.0.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/mini_mime-1.0.1/bin" />
@@ -641,7 +641,7 @@
     <orderEntry type="module-library">
       <library name="mini_portile2 (vbundled(2.3.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/mini_portile2-2.3.0/lib" />
@@ -662,7 +662,7 @@
     <orderEntry type="module-library">
       <library name="minitest (vbundled(5.11.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/minitest-5.11.3/lib" />
@@ -680,7 +680,7 @@
     <orderEntry type="module-library">
       <library name="msgpack (vbundled(1.2.4)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/msgpack-1.2.4/ext" />
@@ -707,7 +707,7 @@
     <orderEntry type="module-library">
       <library name="multi_json (vbundled(1.13.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/multi_json-1.13.1/lib" />
@@ -720,7 +720,7 @@
     <orderEntry type="module-library">
       <library name="nio4r (vbundled(2.3.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext" />
@@ -747,7 +747,7 @@
     <orderEntry type="module-library">
       <library name="nokogiri (vbundled(1.8.4)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/nokogiri-1.8.4/bin" />
@@ -780,7 +780,7 @@
     <orderEntry type="module-library">
       <library name="puma (vbundled(3.12.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/puma-3.12.0/bin" />
@@ -807,7 +807,7 @@
     <orderEntry type="module-library">
       <library name="rack (vbundled(2.0.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rack-2.0.5/bin" />
@@ -834,7 +834,7 @@
     <orderEntry type="module-library">
       <library name="rack-proxy (vbundled(0.6.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rack-proxy-0.6.5/lib" />
@@ -852,7 +852,7 @@
     <orderEntry type="module-library">
       <library name="rack-test (vbundled(1.1.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rack-test-1.1.0/lib" />
@@ -865,7 +865,7 @@
     <orderEntry type="module-library">
       <library name="rails (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES />
         <SOURCES />
@@ -874,7 +874,7 @@
     <orderEntry type="module-library">
       <library name="rails-dom-testing (vbundled(2.0.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rails-dom-testing-2.0.3/lib" />
@@ -892,7 +892,7 @@
     <orderEntry type="module-library">
       <library name="rails-html-sanitizer (vbundled(1.0.4)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rails-html-sanitizer-1.0.4/lib" />
@@ -910,7 +910,7 @@
     <orderEntry type="module-library">
       <library name="railties (vbundled(5.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/railties-5.2.1/exe" />
@@ -928,7 +928,7 @@
     <orderEntry type="module-library">
       <library name="rake (vbundled(12.3.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rake-12.3.1/bin" />
@@ -952,7 +952,7 @@
     <orderEntry type="module-library">
       <library name="rb-fsevent (vbundled(0.10.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rb-fsevent-0.10.3/bin" />
@@ -973,7 +973,7 @@
     <orderEntry type="module-library">
       <library name="rb-inotify (vbundled(0.9.10)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/rb-inotify-0.9.10/lib" />
@@ -991,7 +991,7 @@
     <orderEntry type="module-library">
       <library name="ruby_dep (vbundled(1.5.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/ruby_dep-1.5.0/lib" />
@@ -1004,7 +1004,7 @@
     <orderEntry type="module-library">
       <library name="sass (vbundled(3.6.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sass-3.6.0/bin" />
@@ -1031,7 +1031,7 @@
     <orderEntry type="module-library">
       <library name="sass-listen (vbundled(4.0.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sass-listen-4.0.0/lib" />
@@ -1044,7 +1044,7 @@
     <orderEntry type="module-library">
       <library name="sass-rails (vbundled(5.0.7)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sass-rails-5.0.7/lib" />
@@ -1057,7 +1057,7 @@
     <orderEntry type="module-library">
       <library name="spring (vbundled(2.0.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/spring-2.0.2/bin" />
@@ -1075,7 +1075,7 @@
     <orderEntry type="module-library">
       <library name="spring-watcher-listen (vbundled(2.0.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/spring-watcher-listen-2.0.1/lib" />
@@ -1093,7 +1093,7 @@
     <orderEntry type="module-library">
       <library name="sprockets (vbundled(3.7.2)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sprockets-3.7.2/bin" />
@@ -1111,7 +1111,7 @@
     <orderEntry type="module-library">
       <library name="sprockets-rails (vbundled(3.2.1)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sprockets-rails-3.2.1/lib" />
@@ -1124,7 +1124,7 @@
     <orderEntry type="module-library">
       <library name="sqlite3 (vbundled(1.3.13)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext" />
@@ -1151,7 +1151,7 @@
     <orderEntry type="module-library">
       <library name="thor (vbundled(0.20.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/thor-0.20.0/bin" />
@@ -1169,7 +1169,7 @@
     <orderEntry type="module-library">
       <library name="thread_safe (vbundled(0.3.6)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/thread_safe-0.3.6/ext" />
@@ -1199,7 +1199,7 @@
     <orderEntry type="module-library">
       <library name="tilt (vbundled(2.0.8)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/tilt-2.0.8/bin" />
@@ -1226,7 +1226,7 @@
     <orderEntry type="module-library">
       <library name="tzinfo (vbundled(1.2.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/tzinfo-1.2.5/lib" />
@@ -1244,7 +1244,7 @@
     <orderEntry type="module-library">
       <library name="uglifier (vbundled(4.1.19)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/uglifier-4.1.19/lib" />
@@ -1257,7 +1257,7 @@
     <orderEntry type="module-library">
       <library name="web-console (vbundled(3.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/web-console-3.7.0/lib" />
@@ -1270,7 +1270,7 @@
     <orderEntry type="module-library">
       <library name="webpacker (vbundled(3.5.5)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/webpacker-3.5.5/lib" />
@@ -1297,7 +1297,7 @@
     <orderEntry type="module-library">
       <library name="websocket-driver (vbundled(0.7.0)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext" />
@@ -1315,7 +1315,7 @@
     <orderEntry type="module-library">
       <library name="websocket-extensions (vbundled(0.1.3)) [path][gem]" type="rubylib">
         <properties>
-          <option name="version" value="2" />
+          <option name="version" value="3" />
         </properties>
         <CLASSES>
           <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.5.0/gems/websocket-extensions-0.1.3/lib" />
