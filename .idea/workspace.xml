@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="429e206f-b404-4267-8240-b028b67db18b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/spec/javascript/packs/components/about.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -26,22 +29,23 @@
     <session id="1074468519">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.6" value="6" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="1" />
+          <entry key="babelrc" value="1" />
           <entry key="css" value="1" />
           <entry key="dev" value="1" />
           <entry key="erb" value="4" />
           <entry key="jbuilder" value="3" />
           <entry key="js" value="8" />
-          <entry key="json" value="2" />
+          <entry key="json" value="3" />
           <entry key="rb" value="8" />
           <entry key="scss" value="1" />
           <entry key="server" value="1" />
@@ -51,7 +55,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="1" />
-          <entry key="JSON" value="2" />
+          <entry key="JSON" value="4" />
           <entry key="JavaScript" value="8" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="RHTML" value="4" />
@@ -63,23 +67,24 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="77" />
+          <entry key="babelrc" value="9" />
           <entry key="dev" value="61" />
           <entry key="erb" value="110" />
           <entry key="jbuilder" value="202" />
           <entry key="js" value="756" />
-          <entry key="json" value="132" />
+          <entry key="json" value="381" />
           <entry key="rb" value="1008" />
           <entry key="scss" value="231" />
           <entry key="server" value="72" />
-          <entry key="txt" value="792" />
+          <entry key="txt" value="804" />
           <entry key="vue" value="2981" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="132" />
+          <entry key="JSON" value="390" />
           <entry key="JavaScript" value="756" />
-          <entry key="PLAIN_TEXT" value="925" />
+          <entry key="PLAIN_TEXT" value="937" />
           <entry key="RHTML" value="110" />
           <entry key="Ruby" value="1287" />
           <entry key="SCSS" value="231" />
@@ -97,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/spec/javascript/team.spec.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -105,8 +110,26 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/javascript/packs/components/about.spec.js">
           <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -214,6 +237,7 @@
         <option value="$PROJECT_DIR$/app/javascript/packs/components/index.vue" />
         <option value="$PROJECT_DIR$/spec/javascript/jest.conf.json" />
         <option value="$PROJECT_DIR$/spec/javascript/team.spec.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/spec/javascript/packs/components/about.spec.js" />
       </list>
@@ -266,27 +290,6 @@
             <path>
               <item name="vuejs_and_rails" type="b2602c69:ProjectViewProjectNode" />
               <item name="vuejs_and_rails" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejs_and_rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs_and_rails" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="packs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejs_and_rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs_and_rails" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="packs" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vuejs_and_rails" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vuejs_and_rails" type="462c0819:PsiDirectoryNode" />
               <item name="spec" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,8 +302,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -529,7 +532,8 @@
       <workItem from="1537876757870" duration="2029000" />
       <workItem from="1538052769762" duration="28000" />
       <workItem from="1538052816535" duration="1455000" />
-      <workItem from="1538141479562" duration="169000" />
+      <workItem from="1538141479562" duration="1074000" />
+      <workItem from="1538224397359" duration="522000" />
     </task>
     <task id="LOCAL-00001" summary="create root page.">
       <created>1537611433939</created>
@@ -783,7 +787,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538052940328</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="yarn add --dev vue-jest">
+      <created>1538141787232</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1538141787232</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -792,13 +803,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25042000" />
+    <option name="totallyTimeSpent" value="26469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1597" y="58" width="1382" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26268658" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26641792" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
@@ -815,7 +826,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3293011" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3293011" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3293011" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -836,7 +847,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add tasks view json file." />
     <MESSAGE value="add db initial data." />
     <MESSAGE value="ignore CSRF" />
     <MESSAGE value="add materialize gems" />
@@ -861,7 +871,8 @@
     <MESSAGE value="add update tasks" />
     <MESSAGE value="use let instead of var." />
     <MESSAGE value="yarn add --dev jest" />
-    <option name="LAST_COMMIT_MESSAGE" value="yarn add --dev jest" />
+    <MESSAGE value="yarn add --dev vue-jest" />
+    <option name="LAST_COMMIT_MESSAGE" value="yarn add --dev vue-jest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
@@ -972,6 +983,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/javascript/jest.conf.json" />
+    <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/javascript/team.spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/webpack/loaders/vue.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1017,31 +1042,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/javascript/packs/components/index.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="101" column="5" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/javascript/team.spec.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="287">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/javascript/packs/components/about.spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
